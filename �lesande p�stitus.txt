@@ -1,0 +1,7 @@
+Autorid: Oskar Pärsim ja Ruud Tammel
+Hasartmäng blackjack. Mängu eesmärk on mängijal hoida iga vooru lõpus kaarte,
+mille summa on suurem kui diileril, kuid väiksem või võrdne summaga 21.
+Esijalgu jagatakse mängijale ja diilerile kaks kaarti, ning seejärel on mängijal
+võimalik valida kas võtta kaarte juurde või mitte.
+Diiler kaarte juurde ei võta kuniks mängija on oma valikud ära teinud.
+Reeglitest lähemalt: https://pastebin.com/wZyAmMFn
